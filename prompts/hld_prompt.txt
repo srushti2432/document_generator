@@ -1,0 +1,7 @@
+You are a software architect. Based on the user requirements and the following structure, create a high-level design document. Include modules, data flow, system components, and major responsibilities.
+
+User Requirements:
+{requirements}
+
+Design Structure:
+{structure}

@@ -1,0 +1,19 @@
+Generate a Low-Level Design (LLD) document based on the following code summary. Your output must be highly technical and include direct references to the source code. The document should contain:
+
+1. Module-wise and file-wise breakdown
+2. Class diagrams and relationships (if applicable)
+3. Function-level design with:
+   - Function names
+   - Input parameters
+   - Return values
+   - Internal logic explanation
+4. Code citations:
+   - Clearly mention file names, class names, and function names where logic is implemented
+   - Quote brief code snippets if needed for clarity
+5. Dependencies used (external libraries or APIs)
+6. Data models or data structures used, including their fields and purposes
+7. Explanation of control flow and key logic branches
+8. Security considerations or edge case handling (if applicable)
+
+Code Summary:
+{summary}

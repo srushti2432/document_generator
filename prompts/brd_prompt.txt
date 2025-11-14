@@ -1,0 +1,4 @@
+You are a business analyst. Based on the following user requirements, write a comprehensive Business Requirement Document (BRD) including objectives, stakeholders, business needs, and functional goals.
+
+User Requirements:
+{requirements}

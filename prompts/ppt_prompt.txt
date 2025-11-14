@@ -1,0 +1,7 @@
+Create a high-level PowerPoint outline for a technical project based on the following code summary. use the parsed  code summary and  Each slide should have a  appropriate title and bullet points.
+
+User Requirements:
+{requirements}
+
+Code Summary:
+{summary}

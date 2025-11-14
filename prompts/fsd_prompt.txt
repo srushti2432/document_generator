@@ -1,0 +1,23 @@
+Please include in the FSD:
+- A numbered file-wise breakdown of all `.py` files
+- For each file:
+- List each function name
+- Input parameters and return types
+- Docstring or inferred description
+- A brief explanation of the function’s responsibility
+  Use clear technical formatting (bullets, indentation). Do not skip any files. Mention exact filenames.
+
+Structure the FSD in this order:
+1. Project Overview (based on user requirements)
+2. File-wise Function Analysis
+3. Functional Mapping Summary
+
+Output as a full technical document.
+
+User Requirements:
+{requirements}
+
+Code Summary:
+{summary}
+
+Based on both, generate a detailed Functional Specification Document.
